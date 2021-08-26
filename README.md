@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋, I'm Fouad Abdeen!
+
+I'm an enthusiastic Software Engineer with 1+ year of experience in Web Development, specializing currently in Backend.
+
+I aspire to become an Entrepreneur and a Full-Stack Software Engineer who's passionately involved in solving community problems by providing effective digital solutions.
+
+I'm familiar with TypeScript, JavaScript, and the technologies listed in the toolbox below.
+
+## 🧰 Toolbox
+
 
 <!--
 **fouad-abdeen/fouad-abdeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
