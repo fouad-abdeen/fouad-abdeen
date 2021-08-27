@@ -16,6 +16,11 @@ I'm familiar with TypeScript, JavaScript, and the technologies listed in the too
 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt = "Angular" height = 75 weight = 75> <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt = "React" height = 75 weight = 75> <img src = "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt = "Bootstrap" height = 75 weight = 75>
 
+##
+
+📫 **Don't hesitate to send me a message [here!](https://fouad-abdeen.web.app/)**
+
+
 <!--
 **fouad-abdeen/fouad-abdeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
