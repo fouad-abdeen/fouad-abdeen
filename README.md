@@ -18,4 +18,4 @@ I'm familiar with TypeScript, JavaScript, HTML, CSS, and the technologies listed
 
 ##
 
-📫 **Don't hesitate to send me a message [here!](https://fouad-abdeen.web.app/)**
+### 📫 Don't hesitate to send me a message [here!](https://fouad-abdeen.web.app/)
