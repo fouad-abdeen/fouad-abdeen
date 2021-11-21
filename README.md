@@ -2,7 +2,7 @@
 
 I'm an enthusiastic Software Engineer with 1+ year of experience in Web Development, specializing currently in Backend.
 
-I aspire to become an Entrepreneur and a Full-Stack Software Engineer who's passionately involved in solving community problems by providing effective digital solutions.
+I aspire to become a Tech Entrepreneur who's passionately involved in solving community problems by providing effective digital solutions.
 
 I'm familiar with TypeScript, JavaScript, HTML, CSS, and the technologies listed in the toolbox below.
 
