@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Fouad Abdeen!
 
-I'm an enthusiastic Software Engineer with 1+ year of experience in Web Development, specializing currently in Backend.
+I'm an enthusiastic Software Engineer with around two years of experience in Web Development, currently specializing in Backend.
 
 I aspire to become a Tech Entrepreneur who's passionately involved in solving community problems by providing effective digital solutions.
 
