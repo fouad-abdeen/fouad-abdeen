@@ -1,3 +1,5 @@
+<!---
+
 ## Hi there 👋, I'm Fouad Abdeen!
 
 I'm an enthusiastic Software Engineer with around two years of experience in Web Development, currently specializing in Backend.
@@ -5,6 +7,7 @@ I'm an enthusiastic Software Engineer with around two years of experience in Web
 I aspire to become a Tech Entrepreneur who's passionately involved in solving community problems by providing effective digital solutions.
 
 I'm familiar with TypeScript, JavaScript, HTML, CSS, and the technologies listed in the toolbox below.
+
 
 ## 🧰 Toolbox
 
@@ -19,3 +22,5 @@ I'm familiar with TypeScript, JavaScript, HTML, CSS, and the technologies listed
 ##
 
 ### 📫 Don't hesitate to send me a message [here!](https://fouad-abdeen.web.app/)
+
+-->
