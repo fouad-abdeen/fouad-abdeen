@@ -1,6 +1,6 @@
 # Fouad Abdeen — Backend-focused Full-Stack Engineer 🚀
 
-> Backend-first engineer who builds production-ready microservices and serverless workflows. I deliver reusable libraries and APIs that reduce engineering friction and speed integrations.
+> Backend-first engineer who builds production-ready backend microservices. I deliver reusable libraries and APIs that reduce engineering friction and speed integrations.
 
 ---
 
@@ -8,9 +8,9 @@
 
 * **Developed** a reusable full-stack admin dashboard (React + Flask + PostgreSQL) and tuned Algolia for improved AI search UX.
 * **Built** a TypeScript automation library to track announcements & interactions (Dev.to / Discord / Twitter).
-* **Implemented** a NestJS microservice that fetches and normalizes Wikipedia data for downstream services.
+* **Implemented** a NestJS microservice that fetches and normalises Wikipedia data for downstream services.
 * **Documented** 350+ API endpoints with Swagger UI and produced C4-model architecture docs to improve team onboarding.
-* **Optimized** microservice dependencies by centralizing helpers in a shared TypeScript package (cut ~19 deps/service).
+* **Optimised** microservice dependencies by centralising helpers in a shared TypeScript package (cut ~19 deps/service).
 
 ---
 
@@ -38,30 +38,19 @@ Stripe • OAuth2 • Algolia • Socket.io • Swagger • Postman
 
 ---
 
-<!-- 
-## 🧭 How I work
-
-* Ship small, testable microservices with clear API contracts.
-* Prefer serverless, where it speeds up delivery and reduces cost.
-* Automate repetitive developer workflows; keep infrastructure reproducible.
-* Emphasize readable docs, API contracts, and observable production systems.
-
----
--->
-
 ## 💼 Experience (short)
 
-**Freelance Full-Stack Engineer — Replit Bounties** (Apr 2025 — Jul 2025)
+**Full-Stack Software Engineer — Interphase** (Jan 2024 — Jan 2025)
 
-* Built reusable templates and automation libraries for clients on Replit.
+* Google APIs integration, large-scale API documentation (350+ endpoints), and architecture docs.
 
-**Software Engineer — Interphase** (Jan 2024 — Jan 2025)
-
-* Google APIs integration, large-scale API documentation (350+ endpoints), architecture docs.
-
-**Backend Engineer (Remote) — dox Technologies Inc.** (Jun 2021 — May 2023)
+**Backend Software Engineer — dox Technologies Inc.** (Jun 2021 — May 2023)
 
 * Core microservices, message broker, serverless telemetry Lambda service, shared TS helpers.
+
+**Freelance Full-Stack Engineer — Replit Bounties** (Dec 2022 — Mar 2023)
+
+* Built reusable templates and automation libraries for clients on Replit.
 
 ---
 
@@ -71,5 +60,6 @@ Stripe • OAuth2 • Algolia • Socket.io • Swagger • Postman
 * **Manara-Certified Software Engineer** ([Credly Badge](https://www.credly.com/badges/6f65688f-a236-4e26-a7c4-34b1e03a8311)) | May 2022 — Nov 2022
 * **Web React Development** — Holberton School | Jan 2021 — Apr 2021
 * **Elements of AI for Business** — MinnaLearn & University of Helsinki | Aug 2025
+* **Ethical Hacking Foundation** — Semicolon Academy | Nov 2022
 
 
