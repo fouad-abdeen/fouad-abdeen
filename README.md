@@ -1,6 +1,6 @@
 # Fouad Abdeen — Backend-focused Full-Stack Engineer 🚀
 
-> Backend-first engineer who builds production-ready backend microservices. I deliver reusable libraries and APIs that reduce engineering friction and speed integrations.
+> Backend-first engineer who builds reliable and efficient systems. I deliver reusable libraries and APIs that reduce engineering friction and speed integrations.
 
 ---
 
