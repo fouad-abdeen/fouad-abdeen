@@ -3,7 +3,7 @@
 > Backend-first engineer who builds reliable and efficient systems. I deliver reusable libraries and APIs that reduce engineering friction and speed integrations.
 
 ---
-
+<!-- 
 ## ⚡ Quick Highlights
 
 * **Developed** a reusable full-stack admin dashboard (React + Flask + PostgreSQL) and tuned Algolia for improved AI search UX.
@@ -13,6 +13,7 @@
 * **Optimised** microservice dependencies by centralising helpers in a shared TypeScript package (cut ~19 deps/service).
 
 ---
+-->
 
 ## 🧰 Tech Stack
 
@@ -38,6 +39,7 @@ Stripe • OAuth2 • Algolia • Socket.io • Swagger • Postman
 
 ---
 
+<!--
 ## 💼 Experience (short)
 
 **Full-Stack Software Engineer — Interphase** (Jan 2024 — Jan 2025)
@@ -54,6 +56,7 @@ Stripe • OAuth2 • Algolia • Socket.io • Swagger • Postman
 
 ---
 
+
 ## 🎓 Education & Certifications
 
 * **B.Sc.** Management Information Systems — Lebanese University | Oct 2019 — Sep 2023
@@ -61,5 +64,5 @@ Stripe • OAuth2 • Algolia • Socket.io • Swagger • Postman
 * **Web React Development** — Holberton School | Jan 2021 — Apr 2021
 * **Elements of AI for Business** — MinnaLearn & University of Helsinki | Aug 2025
 * **Ethical Hacking Foundation** — Semicolon Academy | Nov 2022
-
+-->
 
