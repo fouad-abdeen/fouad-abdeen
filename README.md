@@ -19,6 +19,25 @@
 
 **Languages & Runtimes**
 
+🟦 TypeScript • 🐍 Python • JavaScript • Node.js
+
+**Frameworks & APIs**
+
+⚛️ React • 🅰️ Angular • Express • FastAPI • WebSockets
+
+**Databases & Messaging**
+
+🍃 MongoDB • 🐘 PostgreSQL • MySQL • Redis • RabbitMQ
+
+**Cloud & DevOps**
+
+🐳 Docker • ☸️ Kubernetes • AWS • GCP • GitHub Actions
+
+<!--
+## 🧰 Tech Stack
+
+**Languages & Runtimes**
+
 🟦 TypeScript • 🐍 Python • ☕ Java • ⚙️ Clojure • JavaScript • Node.js
 
 **Frameworks & APIs**
