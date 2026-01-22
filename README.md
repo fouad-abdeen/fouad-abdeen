@@ -19,7 +19,7 @@
 
 **Languages & Runtimes**
 
-🟦 TypeScript • 🐍 Python • JavaScript • Node.js
+🟦 TypeScript • 🐍 Python • JavaScript • Node.js • Deno
 
 **Frameworks & APIs**
 
